@@ -19,6 +19,7 @@ Visit [opensource.rante.com](https://opensource.rante.com) to learn more!
 
 ----
 
-Rante projects adopt the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/); see
-our [code of conduct](https://github.com/rantegraph/.github/blob/main/CODE_OF_CONDUCT.md). To report a security
+Rante projects have adopted the [Rante Open Source Code of Conduct](https://opensource.rante.com/codeofconduct/). For
+more information see the [Code of Conduct FAQ](https://opensource.rante.com/codeofconduct/faq/) or contact
+[opensource@rante.com](mailto:opensource@rante.com) with any questions or concerns. To report a security
 vulnerability, follow our [security policy](https://github.com/rantegraph/.github/blob/main/SECURITY.md).
